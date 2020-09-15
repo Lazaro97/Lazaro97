@@ -1,4 +1,4 @@
-### Hi there, I'm Lazaro Ambrosio [website] 👋
+### Hi there, I'm Lazaro Ambrosio [Check out my website][website] 👋
 
 ## I'm an iOS developer who enjoys building and designing apps!
 
