@@ -1,14 +1,9 @@
 ### Hi there, I'm Lazaro Ambrosio [website] 👋
 
-[![Website](https://lazaroambrosioo.com/)
-[![Youtube](https://www.youtube.com/channel/UCPkOWaKeB9YHvmXlNVz4-SA)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm an iOS developer who enjoys building and designing apps!
 
 - ✍️ I’m currently working on EasyVote iOS application
-- 🎬 I’m currently creating SwiftUI tutorial videos for beginners[Check it out!][Youtube]
-- 👯 I’m looking to collaborate with other content creators
+- 🎬 I’m currently creating SwiftUI tutorial videos for beginners [Check it out!][Youtube]
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
