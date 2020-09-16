@@ -1,6 +1,6 @@
 ### Hi there, I'm Lazaro Ambrosio [Check out my website!][website] 👋
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Lazaro Ambrosio - software engineer, content creator, tutorials.">" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src= "https://twitter.com/lazaro_ambrosio/header_photo" alt="banner that says Lazaro Ambrosio - software engineer, content creator, tutorials.">" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 ## I'm an iOS developer who enjoys building and designing apps!
 
