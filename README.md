@@ -1,10 +1,10 @@
-### Hi there, I'm Lazaro Ambrosio [Check out my website][website] 👋
+### Hi there, I'm Lazaro Ambrosio [Check out my website!][website] 👋
 
 ## I'm an iOS developer who enjoys building and designing apps!
 
-- ✍️  I’m currently working on EasyVote iOS application
+- ✍️  I’m currently working on EasyVote iOS application.
 - 🎬 I’m currently creating SwiftUI tutorial videos for beginners [Check it out!][Youtube]
-- ⭐️ 2020 Goals: Contribute more to Open Source projects
+- ⭐️ 2020 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
