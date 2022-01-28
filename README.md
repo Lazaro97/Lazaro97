@@ -4,7 +4,6 @@
 ## I'm an iOS developer who enjoys building and designing apps!
 
 - 🎬 I’m currently creating SwiftUI tutorial videos for beginners [Check it out!][Youtube]
-- ⭐️ 2020 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
